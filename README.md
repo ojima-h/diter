@@ -8,8 +8,8 @@
 
 Or download the script:
 
-    $ curl https://raw.githubusercontent.com/ojima-h/diter/master/bin/diter > bin/diter
-    $ chmod +x bin/diter
+    $ curl -L https://github.com/ojima-h/diter/releases/download/v1.0.0/diter-1.0.0.linux-amd64 > diter
+    $ chmod +x diter
 
 ## Usage
 
